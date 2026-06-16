@@ -153,7 +153,7 @@ AI:
 ## Setup
 
 ```bash
-git clone https://github.com/YOURUSERNAME/bharatvoice-ai
+git clone https://github.com/HarshAlreja/bharatvoice-ai
 cd bharatvoice-ai
 
 pip install -r requirements.txt
