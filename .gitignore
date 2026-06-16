@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.pyc
+venv/
+env/
+.env/
+ENV/
+
+# Environment variables — KABHI PUSH MAT KARNA
+.env
+.env.local
+*.env
+
+# Vector store / chroma DB
+chroma_db/
+*.db
+*.sqlite
+
+# Audio files
+*.wav
+*.mp3
+*.ogg
+
+# Logs
+*.log
+logs/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Vector store / chroma DB
+vectorstore/
+chroma_db/
+*.db
+*.sqlite
