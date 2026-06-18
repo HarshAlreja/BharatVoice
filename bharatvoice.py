@@ -142,7 +142,7 @@ def play_audio(filename):
 # ── Main Loop ─────────────────────────────────────────────
 if __name__ == "__main__":
     vector_store = load_vector_store()
-    print("\n🎙️ BharatVoice Ready!")
+    print("\n BharatVoice Ready!")
     print("=" * 60)
 
     while True:
