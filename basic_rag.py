@@ -8,7 +8,7 @@ groq_key = os.getenv("API_KEY")
 
 
 if not groq_key:
-    print("no api")
+    print("No Api Alloted yet !... Apply Groq Api First")
     exit()
 
 client=Groq(api_key=groq_key)
