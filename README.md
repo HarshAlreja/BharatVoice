@@ -200,7 +200,7 @@ SARVAM_API_KEY=your_key
 * [x] Meta Developer Setup
 * [x] WhatsApp Business Platform Setup
 * [x] Access Token Configuration
-* [ ] Webhook Setup
+* [x] Webhook Setup
 * [ ] Message Receiving
 * [ ] Auto Reply System
 
