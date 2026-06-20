@@ -202,7 +202,7 @@ SARVAM_API_KEY=your_key
 * [x] Access Token Configuration
 * [x] Webhook Setup
 * [x] Message Receiving
-* [ ] Auto Reply System
+* [x] Auto Reply System
 
 ### Phase 3 — Business Knowledge Management
 
