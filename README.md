@@ -202,7 +202,7 @@ SARVAM_API_KEY=your_key
 * [x] Access Token Configuration
 * [x] Webhook Setup
 * [x] Message Receiving
-* [x] Auto Reply System
+* [ x] Auto Reply System
 
 ### Phase 3 — Business Knowledge Management
 
@@ -215,7 +215,7 @@ SARVAM_API_KEY=your_key
 
 * [ ] Voice Note Processing
 * [ ] Speech-to-Text
-* [ ] Sarvam Voice Responses
+* [ x] Sarvam Voice Responses
 * [ ] End-to-End Voice Conversations
 
 ### Phase 5 — SaaS Platform
