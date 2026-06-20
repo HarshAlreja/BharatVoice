@@ -201,7 +201,7 @@ SARVAM_API_KEY=your_key
 * [x] WhatsApp Business Platform Setup
 * [x] Access Token Configuration
 * [x] Webhook Setup
-* [ ] Message Receiving
+* [x] Message Receiving
 * [ ] Auto Reply System
 
 ### Phase 3 — Business Knowledge Management
