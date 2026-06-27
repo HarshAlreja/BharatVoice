@@ -213,10 +213,10 @@ SARVAM_API_KEY=your_key
 
 ### Phase 4 — Voice Intelligence
 
-* [ ] Voice Note Processing
-* [ ] Speech-to-Text
+* [x] Voice Note Processing
+* [x] Speech-to-Text
 * [ x] Sarvam Voice Responses
-* [ ] End-to-End Voice Conversations
+* [x] End-to-End Voice Conversations
 
 ### Phase 5 — SaaS Platform
 
